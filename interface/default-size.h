@@ -1,0 +1,16 @@
+#ifndef DEFAULT_SIZE_H
+#define DEFAULT_SIZE_H
+
+#define WIDTH_TV 210  // 200
+#define HEIGHT_TV 62  // 70
+
+#define WIDTH_FIELD 150
+#define HEIGHT_FIELD 50
+
+#define WIDTH_DISPLAY 150
+#define HEIGHT_DISPLAY 50
+
+#define WIDTH_CONTROL 34
+#define HEIGHT_CONTROL 56
+
+#endif
